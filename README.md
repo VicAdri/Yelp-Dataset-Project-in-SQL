@@ -11,4 +11,5 @@ I am privilaged to take part in this project. Check out my work on the files pos
 The project involve:
 
 Part 1: Yelp Dataset Profiling and Understanding
+Part 2: Inferences and Analysis
 
