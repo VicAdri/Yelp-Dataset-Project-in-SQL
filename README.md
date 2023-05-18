@@ -7,3 +7,8 @@ Through this Project, you are presented with a series of challenging SQL coding 
 The Project offers a structured environment where one can apply their SQL knowledge to practical scenarios, such as querying databases, manipulating data, and performing complex analytics tasks. It provides a platform for learners to experiment, make mistakes, and learn from them, ultimately fostering a deeper understanding of SQL and its applications in data science.
 
 I am privilaged to take part in this project. Check out my work on the files posted above.
+
+The project involve:
+
+Part 1: Yelp Dataset Profiling and Understanding
+
